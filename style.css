@@ -1,0 +1,19 @@
+body{
+    background-color: #3288af;
+}
+.imart{
+    color: #3288af;
+}
+
+@media screen and (max-width: 428px) {
+
+    .userInput{
+        width: 90% !important;
+        margin: 5px;
+    }
+    .card{
+        width: 90% !important;
+        margin-left: 20px !important;
+    }
+    
+}
